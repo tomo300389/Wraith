@@ -1,0 +1,14 @@
+﻿  Player.cpp
+e:\wraith 2.0\wraith 2.0\wraith 2.0\player.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Level.cpp
+e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(37): warning C4018: '<': signed/unsigned mismatch
+e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(81): warning C4018: '<': signed/unsigned mismatch
+e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(177): warning C4018: '<': signed/unsigned mismatch
+e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(205): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'const char *'
+  e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(205): note: consider using '%hS' in the format string
+  e:\wraith 2.0\wraith 2.0\wraith 2.0\level.cpp(205): note: consider using '%TS' in the format string
+  GameSystem.cpp
+  Generating Code...
+  Wraith 2.0.vcxproj -> E:\Wraith 2.0\Wraith 2.0\Debug\Wraith 2.0.exe
+  Wraith 2.0.vcxproj -> E:\Wraith 2.0\Wraith 2.0\Debug\Wraith 2.0.pdb (Partial PDB)
